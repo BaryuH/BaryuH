@@ -9,7 +9,7 @@
 - 🚀 Major in **Computer Science**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/giahuy-pn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giahuy-pn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:huykunfu.376@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?slogo=Facebook&logoColor=white)](https://www.facebook.com/huypng.cs)
 
