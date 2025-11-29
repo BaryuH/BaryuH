@@ -16,7 +16,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaryuH&show_icons=true&theme=radical" alt="ghuy's GitHub stats" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaryuH&layout=compact&theme=radical" alt="Top Langs" height="140">
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BaryuH&show_icons=true&theme=radical"
+    alt="Huy's GitHub stats"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaryuH&layout=compact&theme=radical"
+    alt="Top Langs"
+    height="150"
+  />
+</div>
