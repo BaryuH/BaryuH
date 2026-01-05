@@ -11,20 +11,3 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giahuy-pn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:huykunfu.376@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?slogo=Facebook&logoColor=white)](https://www.facebook.com/huypng.cs)
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BaryuH&show_icons=true&theme=radical"
-    alt="Huy's GitHub stats"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaryuH&layout=compact&theme=radical"
-    alt="Top Langs"
-    height="150"
-  />
-</div>
